@@ -8,6 +8,33 @@ height: 2cm;
     text-align: center;
     line-height: 2cm;
 }
-.pull-center {
-    text-align:center;
+.container2{
+    background-color:rgb(69, 1, 133);
+    color:black;
+    font-size: 1cm;
+    height: 2cm;
+}
+.center2{
+    text-align: center;
+    line-height: 2cm;
+}
+.container3{
+    background-color: blue;
+    color: black;
+    font-size: 1cm;
+    height: 2cm;
+}
+.center3{
+    text-align: center;
+    line-height: 2cm;
+}
+.container4{
+    background-color: brown;
+    color: black;
+    font-size: 1cm;
+    height: 2cm;
+}
+.center4{
+    text-align: center;
+    line-height: 2cm;
 }
