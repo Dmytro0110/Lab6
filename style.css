@@ -1,0 +1,13 @@
+.container{
+background-color: rgb(26, 167, 233);
+color: black;
+font-size: 1cm;
+height: 2cm;
+}
+.center{
+    text-align: center;
+    line-height: 2cm;
+}
+.pull-center {
+    text-align:center;
+}
